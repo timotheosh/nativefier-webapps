@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Logos
+Comment=Bible Study Software
+Exec=/home/thawes/programs/share/nativefier/logos-linux-x64/logos
+Icon=logos
+Terminal=false
+Categories=Education
