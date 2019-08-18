@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Evernote
+Comment=Bible Study Software
+Exec=/home/thawes/programs/share/nativefier/evernote-linux-x64/evernote
+Icon=evernote
+Terminal=false
+Categories=Productivity
