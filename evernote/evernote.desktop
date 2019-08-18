@@ -2,7 +2,7 @@
 Type=Application
 Version=1.0
 Name=Evernote
-Comment=Bible Study Software
+Comment=Note Manager
 Exec=/home/thawes/programs/share/nativefier/evernote-linux-x64/evernote
 Icon=evernote
 Terminal=false
