@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Gmail
+Comment=Gmail Web Mail Client
+Exec=/home/thawes/programs/share/nativefier/gmail-linux-x64/gmail
+Icon=gmail
+Terminal=false
+Categories=Productivity
