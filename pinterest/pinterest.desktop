@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Pinterest
+Comment=Note Manager
+Exec=/home/thawes/programs/share/nativefier/pinterest-linux-x64/pinterest
+Icon=pinterest
+Terminal=false
+Categories=Productivity
