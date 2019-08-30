@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=PureCloud Chat
+Comment=PureCloud Chat
+Exec=/home/thawes/programs/share/nativefier/pure-cloud-chat-linux-x64/pure-cloud-chat
+Icon=purecloud
+Terminal=false
+Categories=Productivity

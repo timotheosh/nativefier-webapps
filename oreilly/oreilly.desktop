@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Oreilly Online
+Comment=Oreilly Books Online
+Exec=/home/thawes/programs/share/nativefier/oreilly-linux-x64/oreilly
+Icon=oreilly
+Terminal=false
+Categories=Education
