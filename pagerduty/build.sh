@@ -1,4 +1,6 @@
 #!/bin/bash
 
 nativefier --name "Pagerduty" \
-   --single-instance "https://orgspan.pagerduty.com/incidents"
+   --icon pagerduty/pagerduty.png \
+   --single-instance "https://orgspan.pagerduty.com/incidents" \
+   --tray start-in-tray

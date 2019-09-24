@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Pagerduty
+Comment=Pager Duty App
+Exec=/home/thawes/programs/share/nativefier/pagerduty-linux-x64/pagerduty
+Icon=pagerduty
+Terminal=false
+Categories=Productivity
