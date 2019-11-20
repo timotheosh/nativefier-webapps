@@ -1,5 +1,5 @@
 #!/bin/bash
 
 nativefier --name "Oreilly" \
-    --icon oreilly.png \
+    --icon oreilly/oreilly.png \
     --single-instance "https://learning.oreilly.com/home/"
