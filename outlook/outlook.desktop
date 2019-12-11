@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Outlook Mail
+Comment=Outlook Mail
+Exec=/home/thawes/programs/share/nativefier/outlook-linux-x64/outlook
+Icon=outlook
+Terminal=false
+Categories=Productivity

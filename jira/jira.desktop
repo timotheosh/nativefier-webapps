@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Jira Ticket System
+Comment=Jira Ticket System
+Exec=/home/thawes/programs/share/nativefier/jira-linux-x64/jira
+Icon=jira
+Terminal=false
+Categories=Productivity
