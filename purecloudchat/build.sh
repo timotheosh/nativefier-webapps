@@ -1,5 +1,5 @@
 #!/bin/bash
 
 nativefier --name "PureCloudChat" \
-    --icon purecloudchat/purecloud.png \
+    --icon purecloud.png \
     --single-instance "https://apps.mypurecloud.com/directory/"
