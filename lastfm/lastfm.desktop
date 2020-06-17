@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Last.FM
+Comment=Music Scrobbler
+Exec=/home/thawes/programs/share/nativefier/LastFM-linux-x64/LastFM
+Icon=lastfm
+Terminal=false
+Categories=Multimedia
